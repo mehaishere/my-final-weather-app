@@ -97,7 +97,7 @@ li:first-letter {
 .container {
   border: 1px solid white;
   display: block;
-  padding: 0 auto;
+  padding-bottom: 15px;
   font-family: "Roboto Mono", monospace;
   background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
   box-shadow: 7px 7px 7px rgb(0, 0, 0, 0.2);
